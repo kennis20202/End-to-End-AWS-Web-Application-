@@ -1,5 +1,7 @@
 **Project Title: End-to-End AWS Web Application Deployment Guide**
 
+![Image](End to End Architecture.drawio.png)
+
 **Introduction:**
 This guide outlines the step-by-step process of architecting and deploying a web application on Amazon Web Services (AWS) using various services such as AWS Amplify, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, and AWS Identity & Access Management (IAM). The project involves creating a fully functional web application leveraging these AWS services.
 
